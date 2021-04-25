@@ -1,0 +1,3 @@
+C:\Users\doans\source\repos\rss\rss\obj\Release\rss.njsproj.CoreCompileInputs.cache
+C:\Users\doans\source\repos\rss\rss\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\doans\source\repos\rss\rss\obj\Release\rss.njsprojAssemblyReference.cache
